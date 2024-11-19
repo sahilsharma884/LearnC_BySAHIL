@@ -1,0 +1,8 @@
+{
+    "name": "C Development Environment",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {},
+    "extensions": []
+}
